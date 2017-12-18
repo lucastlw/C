@@ -1,1 +1,1 @@
-# C
+Repository to learn C
